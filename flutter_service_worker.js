@@ -3,11 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "086e99152105a7d467f2940e885d03f4",
+  "assets/AssetManifest.json": "db35eaece185e3b54dd4672c79beb460",
 "assets/assets/audios/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/fonts/favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"assets/assets/images/a0e83c38-627d-4c74-a378-32f41413b855.jpg": "25ba5a82da7926bc35d0dd9e111f5c00",
 "assets/assets/images/datadot_(1).png": "1756e61298fa08b7aa84bc31e649b2bb",
 "assets/assets/images/favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"assets/assets/images/WhatsApp_Image_2023-08-29_at_18.21.25.jpeg": "77902683061edf5e11da9817642c0e86",
 "assets/assets/lottie_animations/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/pdfs/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/rive_animations/favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -27,9 +29,9 @@ const RESOURCES = {
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "07e1fb1f1b84564ecdf3d8c8ec5f02d9",
-"/": "07e1fb1f1b84564ecdf3d8c8ec5f02d9",
-"main.dart.js": "8cb41dfa54875495e537018486b537fa",
+"index.html": "5cfabcbd8aaf64ddaa60cc7a0082fe9f",
+"/": "5cfabcbd8aaf64ddaa60cc7a0082fe9f",
+"main.dart.js": "749186906c4cea482df87332beca0bf6",
 "manifest.json": "39e49c776bace7e6d0dedf351dba6ef2",
 "version.json": "90f1e6e6e2dfb6e2a2455954f33ed100"
 };
